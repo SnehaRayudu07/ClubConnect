@@ -1,7 +1,7 @@
-# ClubConnect
+# ClubManagement
 
-Platform for Student Clubs!
+A new Flutter project.
 
-Students: Join a diverse array of clubs effortlessly and stay updated with the latest happenings across your campus.
+## Getting Started
 
-CLubs: Seamlessly organize events, foster collaborations with other clubs, initiate discussions in dynamic forums, and efficiently manage your club's operations—all in one place!
+FlutterFlow projects are built to run on the Flutter _stable_ release.
